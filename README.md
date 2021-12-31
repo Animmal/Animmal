@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Animmal
-- 👀 I’m interested in coding and science.
-- 🌱 I’m currently learning python, html, and soon data science.
-- 💞️ I’m looking to collaborate on various large plaforms.
-- 📫 How to reach me is unknown.
-- 😎 I love to learn new things and get better everyday!
+
